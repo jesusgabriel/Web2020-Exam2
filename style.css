@@ -1,0 +1,21 @@
+
+body{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-around;
+  align-items: center;
+  flex-direction:row;
+  width: 20vw;
+  height: 50vh;
+  margin-top: 150px;
+ }
+
+
+
+.circle1, .circle2 {
+
+width: 40px;
+height: 40px;
+background-color: black;
+border-radius: 100px;
+}
